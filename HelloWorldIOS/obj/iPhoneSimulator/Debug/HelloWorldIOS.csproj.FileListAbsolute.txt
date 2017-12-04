@@ -1,0 +1,9 @@
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/bin/iPhoneSimulator/Debug/HelloWorldIOS.exe
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/bin/iPhoneSimulator/Debug/HelloWorldIOS.pdb
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/HelloWorldIOS.csproj.CoreCompileInputs.cache
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/HelloWorldIOS.exe
+/Users/anthonyl6/Desktop/Repos/HelloWorld/HelloWorldIOS/obj/iPhoneSimulator/Debug/HelloWorldIOS.pdb
